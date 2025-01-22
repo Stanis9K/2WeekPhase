@@ -1,0 +1,9 @@
+serverAddr = "10.0.3.50"
+serverPort = 7000
+
+[[proxies]]
+name = "minecraft"
+type = "tcp"
+localIP = "10.0.3.50"
+localPort = 25565
+remotePort = 25565

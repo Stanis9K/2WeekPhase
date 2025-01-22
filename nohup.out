@@ -1,0 +1,14 @@
+/home/codespace/Applications/telebit/bin/telebit-remote.js:643
+  var verstrd = [ pkg.name + ' daemon v' + state.config.version ];
+                                                        ^
+
+TypeError: Cannot read properties of undefined (reading 'version')
+    at handleConfig (/home/codespace/Applications/telebit/bin/telebit-remote.js:643:57)
+    at /home/codespace/Applications/telebit/bin/telebit-remote.js:359:22
+    at /home/codespace/Applications/telebit/usr/share/install-launcher.js:256:32
+    at ChildProcess.exithandler (node:child_process:414:7)
+    at ChildProcess.emit (node:events:517:28)
+    at maybeClose (node:internal/child_process:1098:16)
+    at ChildProcess._handle.onexit (node:internal/child_process:303:5)
+
+Node.js v18.20.5

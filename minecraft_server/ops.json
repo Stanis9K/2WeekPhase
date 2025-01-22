@@ -1,0 +1,50 @@
+[
+  {
+    "uuid": "c63e4f70-6c91-360d-833d-a953f88927ec",
+    "name": "NeuTon_08",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "f7a6a9e2-9eaf-4b0c-92d5-2b696af3ba1f",
+    "name": "Stann",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "231834f5-4d0b-3e78-8a5f-f83d9cd8d167",
+    "name": "Warrick04",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "15a7202a-1e98-31a2-aa07-efbe94b30627",
+    "name": "DavenT1",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "1bfe87e8-6e5b-3eb6-a438-d0b0120aeacc",
+    "name": "Stann",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "94b5ff1c-58a7-37a8-8f0c-7c8f43d889c2",
+    "name": "SWITCH",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "bdafe45e-1e71-3252-8cc9-29f5bede56d1",
+    "name": "DavenT",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "dda14ff4-9675-3606-9a6e-739f85dd1af8",
+    "name": "TheLracle",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

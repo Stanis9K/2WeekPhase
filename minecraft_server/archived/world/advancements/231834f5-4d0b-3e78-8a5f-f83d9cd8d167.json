@@ -1,0 +1,288 @@
+{
+  "terramity:terramity_parent_advancement": {
+    "criteria": {
+      "terramity_parent_advancement_0": "2024-12-30 10:38:19 +0000"
+    },
+    "done": true
+  },
+  "global:notblue": {
+    "criteria": {
+      "requirement": "2024-12-30 10:38:19 +0000"
+    },
+    "done": true
+  },
+  "fortunate_ancient_debris:about": {
+    "criteria": {
+      "requirement": "2024-12-30 10:38:19 +0000"
+    },
+    "done": true
+  },
+  "iron_recycling:about_better_iron_recycling": {
+    "criteria": {
+      "requirement": "2024-12-30 10:38:19 +0000"
+    },
+    "done": true
+  },
+  "leather_recycling:about_leather_recycling": {
+    "criteria": {
+      "requirement": "2024-12-30 10:38:19 +0000"
+    },
+    "done": true
+  },
+  "gold_recycling:about": {
+    "criteria": {
+      "requirement": "2024-12-30 10:38:19 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2024-12-30 10:38:19 +0000"
+    },
+    "done": true
+  },
+  "leather_recycling:recipes/misc/leather_from_rotten_flesh": {
+    "criteria": {
+      "has_smelting_recipe": "2024-12-30 10:38:19 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-12-30 10:38:19 +0000"
+    },
+    "done": true
+  },
+  "netherite_recycling:about_netherite_recycling": {
+    "criteria": {
+      "requirement": "2024-12-30 10:38:19 +0000"
+    },
+    "done": true
+  },
+  "village_hero:about_village_hero_plus": {
+    "criteria": {
+      "requirement": "2024-12-30 10:38:19 +0000"
+    },
+    "done": true
+  },
+  "diamond_recycling:about": {
+    "criteria": {
+      "requirement": "2024-12-30 10:38:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-12-30 10:38:19 +0000"
+    },
+    "done": true
+  },
+  "yungscavebiomes:root": {
+    "criteria": {
+      "always": "2024-12-30 10:38:19 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-12-30 10:38:19 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2024-12-30 10:38:19 +0000"
+    },
+    "done": true
+  },
+  "global:root": {
+    "criteria": {
+      "requirement": "2024-12-30 10:38:19 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2024-12-30 10:38:19 +0000"
+    },
+    "done": true
+  },
+  "copper_recycling:recipes/misc/copper_ingot_from_smelting_or_blasting": {
+    "criteria": {
+      "has_blasting_recipe": "2024-12-30 10:38:19 +0000"
+    },
+    "done": true
+  },
+  "alexsmobsinteraction:ami_book": {
+    "criteria": {
+      "ami": "2024-12-30 10:38:19 +0000"
+    },
+    "done": true
+  },
+  "copper_recycling:about_copper_recycling": {
+    "criteria": {
+      "requirement": "2024-12-30 10:38:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:birch_forest": "2024-12-30 11:17:32 +0000",
+      "minecraft:bamboo_jungle": "2024-12-30 12:49:35 +0000",
+      "minecraft:wooded_badlands": "2024-12-30 12:52:35 +0000",
+      "minecraft:sparse_jungle": "2024-12-30 11:17:54 +0000",
+      "minecraft:river": "2024-12-30 11:14:23 +0000",
+      "minecraft:dripstone_caves": "2024-12-30 10:49:56 +0000",
+      "minecraft:forest": "2024-12-30 10:38:20 +0000",
+      "minecraft:jungle": "2024-12-30 12:00:02 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-30 11:17:57 +0000",
+      "minecraft:deep_dark": "2024-12-30 12:15:56 +0000",
+      "minecraft:plains": "2024-12-30 10:42:07 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-30 10:39:48 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2024-12-30 10:39:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-30 10:41:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-30 10:42:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2024-12-30 11:04:12 +0000",
+      "minecraft:spider": "2024-12-30 10:42:21 +0000",
+      "minecraft:husk": "2024-12-30 11:07:29 +0000",
+      "minecraft:zombie": "2024-12-30 10:42:34 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:spider": "2024-12-30 10:42:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "apple": "2024-12-30 10:47:29 +0000",
+      "bread": "2024-12-30 10:48:28 +0000",
+      "rotten_flesh": "2024-12-30 10:45:16 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-30 10:48:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-30 10:49:03 +0000"
+    },
+    "done": true
+  },
+  "immersive_aircraft:misc/aircraftery": {
+    "criteria": {
+      "has_item": "2024-12-30 10:51:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-12-30 10:51:06 +0000"
+    },
+    "done": true
+  },
+  "man_of_many_planes:misc/expanded_aircraftery": {
+    "criteria": {
+      "has_item": "2024-12-30 10:51:06 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/lost_eye": {
+    "criteria": {
+      "lost_eye": "2024-12-30 10:51:12 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "lost_eye": "2024-12-30 10:51:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-30 10:51:35 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2024-12-30 11:07:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-30 11:20:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-12-30 11:44:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-30 12:08:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-30 12:11:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-12-30 12:16:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2024-12-30 12:43:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2024-12-30 12:47:03 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

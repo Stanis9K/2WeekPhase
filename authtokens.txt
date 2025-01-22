@@ -1,0 +1,24 @@
+## This is all the ngrok authtokens generated all from my account,
+## please input them in order as they have quotas and time limits.
+## So it is easy to manage and to know where to start and end.
+
+Command to search the ngrok authtoken file :
+./ngrok config check
+
+## Simple tutorial on how to change ngrok authtokens;
+1. Know which authtoken is next
+2. Copy the authtoken (Do not Delete or Cut)
+3. Search the ngrok authtoken file
+4. Replace it.
+
+==========================================================================
+
+1st : 2bu0NZhXwHJlEHMnTOo6eCtutfu_7m9QzCrBGZQGwep4fhtNg (stanis9k)
+
+2nd : 2bz28hNsOdRgMxklTx0Dmzfa9su_5wQW71EkN5fsHdxGcefkW (stanandito)
+
+3rd : 2btwjQHvp4FwJg1wKRq8EZC5NcJ_5ADNoxHggcEyLcf5Wg1dA (dicerwicer)
+
+4th : 2byjX3GLPuVk8mrP8ZahqOoAQmb_pnsyKY7MoYUbfycDhiy (diceros)
+
+5th : 

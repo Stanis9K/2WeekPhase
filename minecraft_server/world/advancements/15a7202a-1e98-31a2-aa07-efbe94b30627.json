@@ -1,0 +1,142 @@
+{
+  "terramity:terramity_parent_advancement": {
+    "criteria": {
+      "terramity_parent_advancement_0": "2025-01-08 04:12:11 +0000"
+    },
+    "done": true
+  },
+  "global:notblue": {
+    "criteria": {
+      "requirement": "2025-01-08 04:12:11 +0000"
+    },
+    "done": true
+  },
+  "fortunate_ancient_debris:about": {
+    "criteria": {
+      "requirement": "2025-01-08 04:12:11 +0000"
+    },
+    "done": true
+  },
+  "iron_recycling:about_better_iron_recycling": {
+    "criteria": {
+      "requirement": "2025-01-08 04:12:11 +0000"
+    },
+    "done": true
+  },
+  "leather_recycling:about_leather_recycling": {
+    "criteria": {
+      "requirement": "2025-01-08 04:12:11 +0000"
+    },
+    "done": true
+  },
+  "gold_recycling:about": {
+    "criteria": {
+      "requirement": "2025-01-08 04:12:11 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-01-08 04:12:11 +0000"
+    },
+    "done": true
+  },
+  "leather_recycling:recipes/misc/leather_from_rotten_flesh": {
+    "criteria": {
+      "has_smelting_recipe": "2025-01-08 04:12:11 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-01-08 04:12:11 +0000"
+    },
+    "done": true
+  },
+  "netherite_recycling:about_netherite_recycling": {
+    "criteria": {
+      "requirement": "2025-01-08 04:12:11 +0000"
+    },
+    "done": true
+  },
+  "village_hero:about_village_hero_plus": {
+    "criteria": {
+      "requirement": "2025-01-08 04:12:11 +0000"
+    },
+    "done": true
+  },
+  "diamond_recycling:about": {
+    "criteria": {
+      "requirement": "2025-01-08 04:12:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-01-08 04:12:11 +0000"
+    },
+    "done": true
+  },
+  "yungscavebiomes:root": {
+    "criteria": {
+      "always": "2025-01-08 04:12:11 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-01-08 04:12:11 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-01-08 04:12:11 +0000"
+    },
+    "done": true
+  },
+  "global:root": {
+    "criteria": {
+      "requirement": "2025-01-08 04:12:11 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2025-01-08 04:12:11 +0000"
+    },
+    "done": true
+  },
+  "copper_recycling:recipes/misc/copper_ingot_from_smelting_or_blasting": {
+    "criteria": {
+      "has_smelting_recipe": "2025-01-08 04:12:11 +0000"
+    },
+    "done": true
+  },
+  "alexsmobsinteraction:ami_book": {
+    "criteria": {
+      "ami": "2025-01-08 04:12:11 +0000"
+    },
+    "done": true
+  },
+  "copper_recycling:about_copper_recycling": {
+    "criteria": {
+      "requirement": "2025-01-08 04:12:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2025-01-08 04:13:32 +0000",
+      "minecraft:plains": "2025-01-08 04:12:12 +0000"
+    },
+    "done": false
+  },
+  "dungeons_arise:find_greenwood_pub": {
+    "criteria": {
+      "location0": "2025-01-08 04:13:33 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

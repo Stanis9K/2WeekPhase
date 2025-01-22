@@ -1,0 +1,390 @@
+{
+  "terramity:terramity_parent_advancement": {
+    "criteria": {
+      "terramity_parent_advancement_0": "2025-01-08 04:17:38 +0000"
+    },
+    "done": true
+  },
+  "global:notblue": {
+    "criteria": {
+      "requirement": "2025-01-08 04:17:38 +0000"
+    },
+    "done": true
+  },
+  "fortunate_ancient_debris:about": {
+    "criteria": {
+      "requirement": "2025-01-08 04:17:38 +0000"
+    },
+    "done": true
+  },
+  "iron_recycling:about_better_iron_recycling": {
+    "criteria": {
+      "requirement": "2025-01-08 04:17:38 +0000"
+    },
+    "done": true
+  },
+  "leather_recycling:about_leather_recycling": {
+    "criteria": {
+      "requirement": "2025-01-08 04:17:38 +0000"
+    },
+    "done": true
+  },
+  "gold_recycling:about": {
+    "criteria": {
+      "requirement": "2025-01-08 04:17:38 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-01-08 04:17:38 +0000"
+    },
+    "done": true
+  },
+  "leather_recycling:recipes/misc/leather_from_rotten_flesh": {
+    "criteria": {
+      "has_smelting_recipe": "2025-01-08 04:17:38 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-01-08 04:17:38 +0000"
+    },
+    "done": true
+  },
+  "netherite_recycling:about_netherite_recycling": {
+    "criteria": {
+      "requirement": "2025-01-08 04:17:38 +0000"
+    },
+    "done": true
+  },
+  "village_hero:about_village_hero_plus": {
+    "criteria": {
+      "requirement": "2025-01-08 04:17:38 +0000"
+    },
+    "done": true
+  },
+  "diamond_recycling:about": {
+    "criteria": {
+      "requirement": "2025-01-08 04:17:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-01-08 04:17:38 +0000"
+    },
+    "done": true
+  },
+  "yungscavebiomes:root": {
+    "criteria": {
+      "always": "2025-01-08 04:17:38 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-01-08 04:17:38 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-01-08 04:17:38 +0000"
+    },
+    "done": true
+  },
+  "global:root": {
+    "criteria": {
+      "requirement": "2025-01-08 04:17:38 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2025-01-08 04:17:38 +0000"
+    },
+    "done": true
+  },
+  "copper_recycling:recipes/misc/copper_ingot_from_smelting_or_blasting": {
+    "criteria": {
+      "has_smelting_recipe": "2025-01-08 04:17:38 +0000"
+    },
+    "done": true
+  },
+  "alexsmobsinteraction:ami_book": {
+    "criteria": {
+      "ami": "2025-01-08 04:17:38 +0000"
+    },
+    "done": true
+  },
+  "copper_recycling:about_copper_recycling": {
+    "criteria": {
+      "requirement": "2025-01-08 04:17:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:mushroom_fields": "2025-01-08 06:18:47 +0000",
+      "minecraft:taiga": "2025-01-08 06:25:57 +0000",
+      "minecraft:deep_ocean": "2025-01-08 05:40:59 +0000",
+      "minecraft:beach": "2025-01-08 04:40:16 +0000",
+      "minecraft:river": "2025-01-08 05:34:28 +0000",
+      "minecraft:snowy_plains": "2025-01-08 06:57:11 +0000",
+      "minecraft:stony_shore": "2025-01-08 07:32:33 +0000",
+      "minecraft:snowy_taiga": "2025-01-08 07:32:08 +0000",
+      "minecraft:grove": "2025-01-08 06:55:21 +0000",
+      "minecraft:swamp": "2025-01-08 06:04:29 +0000",
+      "minecraft:cold_ocean": "2025-01-08 05:52:08 +0000",
+      "minecraft:forest": "2025-01-08 04:18:26 +0000",
+      "minecraft:deep_cold_ocean": "2025-01-08 05:42:15 +0000",
+      "minecraft:frozen_ocean": "2025-01-10 08:10:13 +0000",
+      "minecraft:deep_frozen_ocean": "2025-01-08 05:47:43 +0000",
+      "minecraft:ocean": "2025-01-08 04:32:40 +0000",
+      "minecraft:snowy_beach": "2025-01-10 08:58:44 +0000",
+      "minecraft:windswept_savanna": "2025-01-08 05:34:15 +0000",
+      "minecraft:frozen_peaks": "2025-01-08 06:55:45 +0000",
+      "minecraft:meadow": "2025-01-08 06:47:03 +0000",
+      "minecraft:plains": "2025-01-08 04:17:39 +0000"
+    },
+    "done": false
+  },
+  "dungeons_arise:find_greenwood_pub": {
+    "criteria": {
+      "location0": "2025-01-08 04:18:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-01-08 04:20:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-01-08 05:03:42 +0000",
+      "minecraft:magma_cube": "2025-01-08 05:54:43 +0000",
+      "minecraft:spider": "2025-01-08 04:22:52 +0000",
+      "minecraft:creeper": "2025-01-08 05:15:31 +0000",
+      "minecraft:slime": "2025-01-10 09:03:42 +0000",
+      "minecraft:wither_skeleton": "2025-01-10 08:52:25 +0000",
+      "minecraft:cave_spider": "2025-01-08 05:25:18 +0000",
+      "minecraft:zombie": "2025-01-08 04:22:08 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-01-08 04:22:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2025-01-08 04:43:00 +0000",
+      "cooked_mutton": "2025-01-08 05:06:33 +0000",
+      "apple": "2025-01-08 04:37:29 +0000",
+      "potato": "2025-01-08 05:18:02 +0000",
+      "bread": "2025-01-08 06:00:55 +0000",
+      "cookie": "2025-01-08 04:22:32 +0000",
+      "cooked_chicken": "2025-01-08 04:43:07 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-01-08 04:22:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-01-08 04:38:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-01-08 04:38:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-01-08 04:39:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-01-08 04:41:56 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-01-08 04:47:00 +0000"
+    },
+    "done": true
+  },
+  "immersive_aircraft:misc/aircraftery": {
+    "criteria": {
+      "has_item": "2025-01-08 04:56:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-01-08 04:56:40 +0000"
+    },
+    "done": true
+  },
+  "man_of_many_planes:misc/expanded_aircraftery": {
+    "criteria": {
+      "has_item": "2025-01-08 04:56:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-01-08 04:57:04 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-01-08 04:59:48 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-01-08 04:59:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-01-08 05:03:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-01-08 05:10:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-01-08 05:30:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "kelp": "2025-01-08 05:40:14 +0000"
+    },
+    "done": false
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2025-01-08 05:53:08 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-01-08 06:02:03 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2025-01-08 06:08:53 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_undead_pirate_ship": {
+    "criteria": {
+      "location0": "2025-01-08 06:12:05 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_sunken_city": {
+    "criteria": {
+      "factory": "2025-01-08 06:13:28 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-01-08 06:30:37 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/overkill": {
+    "criteria": {
+      "overkill": "2025-01-08 06:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-01-08 06:50:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "ham": "2025-01-08 06:52:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2025-01-08 06:57:43 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-01-08 07:04:45 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_keep_kayra": {
+    "criteria": {
+      "location0": "2025-01-08 07:33:12 +0000"
+    },
+    "done": true
+  },
+  "quark:get_all_blossom_saplings": {
+    "criteria": {
+      "yellow": "2025-01-08 08:23:23 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-01-10 08:45:38 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/stayin_frosty": {
+    "criteria": {
+      "c1": "2025-01-10 08:30:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-01-10 08:14:53 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
